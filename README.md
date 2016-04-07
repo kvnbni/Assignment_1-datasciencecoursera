@@ -1,6 +1,6 @@
 # Assignment_1-datasciencecoursera
-Codes in R for the assignment questions based on the given data set
-Data for the analysis has been attached with the file
+Codes in R for the assignment questions based on the given data set. Data for the analysis has been attached with the file.
+
 The zip file contains 332 comma-separated-value (CSV) files containing pollution monitoring data for fine particulate matter (PM) 
 air pollution at 332 locations in the United States. Each file contains data from a single monitor and the ID number for each monitor is 
 contained in the file name. For example, data for monitor 200 is contained in the file "200.csv". Each file contains three variables:
